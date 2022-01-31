@@ -98,7 +98,7 @@
                         <a href="{{  route('front.index') }}"><img src="assets/img/logo.png"  srcset="assets/img/logo.png 2x"  style="width:50px !important;" alt="#"></a>
                         <p>Dijital Çözüm Ortağınız</p>
                     </div> 
-                </div>
+                </div> 
                 <div class="col-lg-3 offset-lg-1 col-sm-6 wow fadeInDown" data-wow-delay=".4s">
                     <div class="single_footer_widget footer_nav">
                         <h4>İletişim Bilgileri</h4>
